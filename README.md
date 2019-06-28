@@ -8,6 +8,10 @@ I originally posted this a screen shot of the window on Twitter on May 14 2019, 
 
 https://twitter.com/jgettbtc/status/1128366262449577991
 
+Now you can see it in action with the power of github pages:
+
+https://jgettbtc.github.io/stacksats/
+
 Buy Bitcoin, #StackSats
 
 @jgettbtc
